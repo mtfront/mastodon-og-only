@@ -1,5 +1,5 @@
 # mastodon-og-only
-A chrome extension that let you view only original toots in other people's profile. </br> </br>
+A chrome extension that let you view only original toots on timeline or other people's profile. </br> </br>
 <img width="400" alt="Screen Shot 2022-02-22 at 11 23 05 PM" src="https://user-images.githubusercontent.com/5817602/155276311-5565b863-4697-4b86-9c64-8722e0d611a3.png">
 
 ## Why do I need this
