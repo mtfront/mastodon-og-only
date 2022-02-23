@@ -7,7 +7,7 @@ Some people like to interact with people that post original content. Currently M
 
 ## How to use
 1. Install this extension from chrome store or "load unpacked" this folder on your chrome extension management page.
-2. Navigate to a user's profile page on their instance. The URL should look like "instance domain/@username", for example, "douchi.space/@mtfront".
+2. Navigate to your mastodon timeline or a user's profile page on their instance(whose URL should look like "instance domain/@username", for example, "douchi.space/@mtfront").
 3. Click the extension icon to open this tool.
 4. Click "Hide/Show" button to hide or show user's retoot.
-5. You may need to manually load their older content (click "show older" at bottom of the page) then click this button, if they have a lot of retoots and take up their first few pages.
+5. You may need to manually load older content (click "show older" at bottom of the page if you're on someone's profile) then click this button, if user has a lot of retoots and take up their first few pages.

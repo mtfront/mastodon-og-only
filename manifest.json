@@ -1,7 +1,7 @@
 {
     "name": "Original Toots Only",
-    "description": "A chrome extension that let you view only original toots in other people's profile",
-    "version": "1.0.0",
+    "description": "A chrome extension that let you filter people's retoot on timeline or user's profile page.",
+    "version": "1.1.0",
     "manifest_version": 3,
     "permissions": ["activeTab", "scripting", "tabs"],
     "action": {
