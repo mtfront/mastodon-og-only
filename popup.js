@@ -23,5 +23,5 @@ function handleClick(hidden) {
 }
 
 function showTips() {
-    alert("Click on the avatar of the user to go to their profile page oh their instance.");
+    alert("Click on the avatar of the user to go to their profile page on their instance.");
 }
