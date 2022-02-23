@@ -14,7 +14,7 @@ function inProfile(url) {
     return url.match(/.*\..*\/@.*/);
 }
 
-function handleClick(hidden) {
+function handleClick() {
     let retoots = document.getElementsByClassName("entry h-cite entry-reblog");
     for (r of retoots) {
         let style = r.style.display;
