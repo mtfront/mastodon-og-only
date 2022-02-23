@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html style="min-width: 400px;">
+<head>
+		<style>
+			button {
+				border: none;
+				outline: none;
+				border-color: white;
+				padding: 8px 16px;
+				font-size: 16px;
+				border-radius: 4px;
+				background-color: #6c71c4;
+				color: white;
+			}
+
+			button:hover {
+				box-shadow: 4px 4px 4px rgba(0,0,0,0.24), 4px 4px 4px rgba(0,0,0,0.19);
+				cursor: pointer;
+			}
+
+			p {
+				font-size: 16px;
+			}
+		</style>
+	</head>
+	<body style="background-color:#fdf6e3;">
+		<h1>Show only original toots</h1>
+		<p>This plugin will let you filter people's retoot on their profile page. </p>
+		<p>You may need to manually load their earlier content then click this button, if they have a lot of retoots and take up their first few pages.</p>
+		<p>Enjoy making friends! </p>
+		<p>by Mt. Front </p>
+		<table style="min-width: 300px; margin-top: 10px;">
+			<td><button id="button">Hide/Show</button></td>
+			<td><a href="https://github.com/mtfront/mastodon-og-only" target="_blank"><button style="background-color: #2aa198;">Help</button></a></td>
+			<td style="text-align: right; padding-left: 40px;">
+				<a href="https://douchi.space/@mtfront" target="_blank" rel="noopener"><img class="alignnone wp-image-248" src="/images/logo.png" title="Mastodon" width="24" height="24" /></a> 
+				<a href="https://blog.douchi.space/" target="_blank" rel="noopener"><img class="alignnone wp-image-248" src="/images/blog.png" title="RSS" width="24" height="24" /></a> 
+				<a href="https://t.me/mtfront" target="_blank" rel="noopener"><img class="alignnone wp-image-244" src="/images/telegram.png" title="Telegram" width="24" height="24" /></a> 
+				<a href="https://twitter.com/MtFront" target="_blank" rel="noopener"><img class="alignnone wp-image-247" src="/images/twitter.png" title="Twitter" width="24" height="24" /></a>
+				<a href="https://www.patreon.com/bePatron?u=46962965" target="_blank" rel="noopener"><img class="alignnone wp-image-247" src="/images/patreon.png" title="Patreon" width="24" height="24" /></a>
+			</td>
+		</table>
+		<script defer src="popup.js"></script>
+	</body>
+</html>
