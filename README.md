@@ -3,7 +3,7 @@ A chrome extension that let you view only original toots in other people's profi
 <img width="400" alt="Screen Shot 2022-02-22 at 11 23 05 PM" src="https://user-images.githubusercontent.com/5817602/155276311-5565b863-4697-4b86-9c64-8722e0d611a3.png">
 
 ## Why do I need this
-Some people like to interact with people that post original content. Currently Mastodon doesn't have official content to let people do that on backend.
+Some people like to interact with people that post original content. Currently Mastodon doesn't have official feature to let people do that on backend, thus this hacky way to filter on frontend.
 
 ## How to use
 1. Install this extension from chrome store or "load unpacked" this folder on your chrome extension management page.
