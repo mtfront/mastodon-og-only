@@ -6,7 +6,7 @@ A chrome extension that let you view only original toots on timeline or other pe
 Some people like to interact with people that post original content. Currently Mastodon doesn't have official feature to let people do that on backend, thus this hacky way to filter on frontend.
 
 ## How to use
-1. Install this extension from chrome store or "load unpacked" this folder on your chrome extension management page.
+1. Install this extension from [chrome store](https://chrome.google.com/webstore/detail/original-toots-only/jmkgmhecpnacpoilpekodceagbidllnj) or "load unpacked" this folder on your chrome extension management page.
 2. Navigate to your mastodon timeline or a user's profile page on their instance(whose URL should look like "instance domain/@username", for example, "douchi.space/@mtfront").
 3. Click the extension icon to open this tool.
 4. Click "Hide/Show" button to hide or show user's retoot.
